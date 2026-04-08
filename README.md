@@ -3,7 +3,7 @@ This repository contains laboratories exercises about Agentic AI. Exploring vari
 
 | Laboratories | Code | Video |
 |--------------|------|-------|
-| Lab 01- LLM API Fundamentals | **📂:** `Multiturn` | ▶️ [Watch Video](**to be uploaded**) |
+| Lab 01- LLM API Fundamentals | **📂:** `Multiturn` (01_openai_and_local_ollama.ipynb) | ▶️ [Watch Video](**to be uploaded**) |
 | Lab 02- Agentic Workflows | **📂:** `Exercise 1- Prompt Chaining`| ▶️ [Watch Video](**to be uploaded**) |
 |                           | **📂:** `Exercise 2- Routing` | ▶️ [Watch Video](**to be uploaded**) |
 |                           | **📂:** `Exercise 3- Parallelization` | ▶️ [Watch Video](**to be uploaded**) |   
