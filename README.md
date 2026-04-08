@@ -3,7 +3,7 @@ This repository contains laboratories exercises about Agentic AI. Exploring vari
 
 | Laboratories | Video |
 |--------------|------|
-| Lab 01- LLM API Fundamentals |  ▶️ [Watch Video](**to be uploaded**) |
+| Lab 01- LLM API Fundamentals and Multi-turn Context |  ▶️ [Watch Video](**to be uploaded**) |
 | Lab 02- Agentic Workflows : Routing, Parallelization, Orchestration-Workers, Evaluator-Optimizer & Combined Patterns|  ▶️ [Watch Video](**to be uploaded**) |
 
 Thank you, and God Bless.
