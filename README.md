@@ -7,7 +7,7 @@ This repository contains laboratories exercises about Agentic AI. Exploring vari
 | Lab 02- Agentic Workflows using Ollama model |     
 |   Exercise 1- Prompt Chaining |  ▶️ https://youtu.be/EVYP9sT0CVE |
 |   Exercise 2- Routing | ▶️ https://youtu.be/lvPlNfTqg0c |
-|   Exercise 3- Parallelization | ▶️        |
+|   Exercise 3- Parallelization | ▶️ https://youtu.be/GpXwMaCwEs8       |
 |   Exercise 4- Orchestration-Workers | ▶️   |
 |   Exercise 5- Evaluator-Optimizer | ▶️    |
 |   Exercise 6- Combined Patterns | ▶️  | 
