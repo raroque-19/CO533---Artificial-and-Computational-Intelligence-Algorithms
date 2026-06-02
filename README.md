@@ -10,6 +10,6 @@ This repository contains laboratories exercises about Agentic AI. Exploring vari
 |   Exercise 3- Parallelization | ▶️ https://youtu.be/GpXwMaCwEs8       |
 |   Exercise 4- Orchestration-Workers | ▶️ https://youtu.be/zsf38cN-0eM |
 |   Exercise 5- Evaluator-Optimizer | ▶️ https://youtu.be/ya_4unf__mc    |
-|   Exercise 6- Combined Patterns | ▶️  | 
+|   Exercise 6- Combined Patterns | ▶️ https://youtu.be/dqIbnTRYuvk |
 
 Thank you, and God Bless.
