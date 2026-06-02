@@ -4,6 +4,6 @@ This repository contains laboratories exercises about Agentic AI. Exploring vari
 | Laboratories | Video |
 |--------------|------|
 | Lab 01- LLM API Fundamentals and Multi-turn Context |  ▶️ https://youtu.be/-fSgcSXqVd4 |
-| Lab 02- Agentic Workflows : Prompt Chaining, Routing, Parallelization, Orchestration-Workers & Evaluator-Optimizer|  ▶️ Exercise 1- Prompt Chaining        https://youtu.be/EVYP9sT0CVE | ▶️ Exercise 2- Routing https://youtu.be/lvPlNfTqg0c |
+| Lab 02- Agentic Workflows : Prompt Chaining, Routing, Parallelization, Orchestration-Workers & Evaluator-Optimizer|  ▶️ Exercise 1- Prompt Chaining        https://youtu.be/EVYP9sT0CVE ,  ▶️ Exercise 2- Routing https://youtu.be/lvPlNfTqg0c |
 
 Thank you, and God Bless.
